@@ -24,12 +24,15 @@ Com base nos dados coletados via formulário, as seguintes perguntas são respon
 
 5. **Como é a distribuição dos interesses dos membros que pretendem continuar ativos?**
 
+6. **Em quais áreas administrativas os membros que pretendem continuar ativos querem atuar ?**
+
 ### Principais Seções do Relatório Gerado:
 
 1. **Introdução**: Descrição do objetivo do relatório.
 2. **Visão Geral**: Descrição da situação atual dos membros da FEA.Dev.
 3. **Gráficos de Competências**: Visualização gráfica das competências dos membros que optaram por continuar ativos na entidade.
 4. **Gráficos de Interesses**: Visualização gráfica dos interesses dos membros que permanecerão ativos.
+5. **Cards de Áreas Administrativas de Interesse**: Exibição de cards, cada um representando uma área administrativa e listando os membros que a selecionaram como primeira ou segunda opção.
 
 ## Como Rodar
 
